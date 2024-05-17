@@ -7,8 +7,8 @@
 #include <LiquidCrystal_I2C.h>
 
 // WiFi credentials
-const char* ssid = "mozaia@unifi";  // Change this to your WiFi network name
-const char* password = "0193814565abc";  // Change this to your WiFi password
+const char* ssid = "";  // Change this to your WiFi network name
+const char* password = "";  // Change this to your WiFi password
 
 // RFID reader pins
 #define SS_PIN D4
